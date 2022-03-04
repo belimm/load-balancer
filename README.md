@@ -12,6 +12,6 @@ This console application can do followings on the local machine
  Else if CPU Usage is between 80 and 90 then make status 'Degraded'
  Else make status 'Unhealthy'
 
-<h2>Check the percentage of the disk that was used</h2>
+<h2>2)Check the percentage of the disk that was used</h2>
 
-<h2>Check the memory percentage</h2>
+<h2>3)Check the memory percentage</h2>
